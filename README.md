@@ -18,6 +18,9 @@ The following dependencies are needed:
 
 ![](AGModel.PNG)
 
+## Prerequisities
+Attention U-Net model can find from here:https://github.com/ozan-oktay/Attention-Gated-Networks
+
 ## Contact
 * https://github.com/junqiangchen
 * email: 1207173174@qq.com
