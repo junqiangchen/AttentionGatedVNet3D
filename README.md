@@ -31,7 +31,7 @@ Attention U-Net model can find from here:https://github.com/ozan-oktay/Attention
 **1、Kidney Segmentation**
 * the train loss
 
-![](kidneyloss.png)
+![](kidneyloss.PNG)
 
 * 200-209case dice value and result
 
